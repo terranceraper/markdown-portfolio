@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+# Some of my profiles
+## [GitHub](https://github.com/terranceraper)
+## [LinkedIn](https://www.linkedin.com/in/terranceraper/)
