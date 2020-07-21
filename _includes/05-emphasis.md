@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Today I started a *learning* about the GitHub work flow.</br>
+Tomorrow will be a __big__ day putting the skills I learned to use.
